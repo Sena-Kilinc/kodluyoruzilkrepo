@@ -27,3 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Proje Görünümü
+
+![image](https://github.com/Sena-Kilinc/kodluyoruzilkrepo/blob/main/pic.PNG)
